@@ -5,3 +5,5 @@ password : pass95word
 
 Your Windows file system is located at /mnt/c in the Bash shell environment.
 cd /mnt/c then you can go to any folder or file you want
+
+this important info
